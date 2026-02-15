@@ -31,16 +31,6 @@ Se investigan tendencias temporales, diferencias por sexo, edad, área geográfi
   - **Cluster 2**: Departamento metropolitano outlier (Guatemala).  
   - **Cluster 3**: Departamentos medianos con población relativamente más joven.
 
-## Estructura del Repositorio
-project-defunciones-gt/
-├── project.R               # Script principal en R con todo el análisis (lectura, limpieza, EDA, clustering)
-├── README.md               # Este archivo
-├── Informe/
-│   └── Proyecto1.pdf       # Informe formal en PDF (sin código)
-├── data/                   # (NO subido por tamaño/privacidad) → Instrucciones para descargar datos crudos del INE
-
-
-
 **Nota:** Los datos crudos (.sav) no se incluyen en el repositorio por restricciones de tamaño y políticas del INE. Descárgalos manualmente desde: https://www.ine.gob.gt/ine/vitales/ (archivos def2009.sav a def2022.sav).
 
 ## Requisitos
