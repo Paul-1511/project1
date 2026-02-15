@@ -1,6 +1,6 @@
 # Análisis Exploratorio de Defunciones en Guatemala (2009-2022)
 
-![UGV Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_UGV.svg/1200px-Logo_UGV.svg.png)  
+![UGV Logo][(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_UGV.svg/1200px-Logo_UGV.svg.png](https://upload.wikimedia.org/wikipedia/commons/9/93/Uvg_logo.jpg)
 **Universidad del Valle de Guatemala (UVG)**  
 **Facultad de Ingeniería**  
 **Departamento de Ciencias de la Computación**  
